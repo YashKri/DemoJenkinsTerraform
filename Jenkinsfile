@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Git checkout'){
             steps {
-                git 'https://github.com/SaradaNidiganti/DemoJenkinsTerraform.git'
+                git 'https://github.com/YashKri/DemoJenkinsTerraform.git'
             }
         }
         stage('azurelogin') {
