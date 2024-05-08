@@ -75,3 +75,5 @@ post {
            }
     }
 }
+
+// Pipeline is successfully created in Jenkins
